@@ -1,0 +1,4 @@
+English 80
+Math 90
+Science 75
+SST 95
