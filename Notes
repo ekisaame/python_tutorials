@@ -1,0 +1,5 @@
+# use int() to convert to intergers and str() converts into string
+# Also whenever data is spearated by new lines, 
+# it will be printed in this format n\ hence separating them will require adding another \
+# keep printing as you go along because it helps output the code and
+# you can relate the output to the programme flow
